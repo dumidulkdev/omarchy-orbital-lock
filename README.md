@@ -15,7 +15,7 @@ of qylock's code, fonts, or assets.
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/dumidu/omarchy-orbital-lock.git --enable
+omarchy plugin add https://github.com/dumidulkdev/omarchy-orbital-lock.git --enable
 ```
 
 Enabling this plugin disables `omarchy.lock`. Disabling or removing it restores
