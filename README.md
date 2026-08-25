@@ -1,5 +1,7 @@
 # Orbital Lock
 
+![Orbital Lock screenshot](orbit-lock.png)
+
 A theme-aware Omarchy 4 lock screen with smoothly rotating minute and second
 rings, an hour readout inside the orbit, and a centered date. It keeps Omarchy's
 native PAM, fingerprint, idle, and Wayland session-lock implementation and
